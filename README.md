@@ -31,7 +31,8 @@
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-## ![https://breativo.com](https://raw.githubusercontent.com/breativo/breativo/master/img/logo_breativo_azul.png) **Full Stack Developer iOS | Android | Web**
+
+## <img src="img/logo_breativo_azul.png " width="50px" alt="logo_breativo"> **Full Stack Developer iOS | Android | Web**
 
 ### breativo nace del sueño de crecer como profesional dentro de la industria del desarrollo de software. En los ultimos años me especializado en lenguajes como JavaScript, Python, Kotlin, Swift...
 
