@@ -14,14 +14,14 @@
 ## Información importante 
 
 
-## Listado lecciones y retos
-
 ### Aquí encontramos el listado de las lección y retos, su fecha de publicación y el codigo.
 
 ### **Curso basic**:
 
 >* **Lección 0** - 10/2/2023  | Comentarios y tipos de datos dentro de Python.
+</br>
 
+### **Enlaces**:
 </br>
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
